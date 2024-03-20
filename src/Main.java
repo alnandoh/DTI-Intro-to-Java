@@ -103,7 +103,7 @@ public class Main {
         scanner.close();
     }
 
-//    chatGPT answer 5
+//      chatGPT answer 5
 //    StringBuilder initials = new StringBuilder();
 //    String[] words = fullName.split("\\s+");
 //        for (String word : words) {
@@ -114,5 +114,5 @@ public class Main {
 //
 //    // Print the initials
 //        System.out.println("Initials of your name: " + initials);
-//        scanner.close();
+          scanner.close();
 }
